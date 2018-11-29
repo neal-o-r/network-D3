@@ -1,0 +1,31 @@
+{
+    "nodes": [
+        {
+            "colour": "#000",
+            "name": "A",
+            "id": "A"
+        },
+        {
+            "colour": "#000",
+            "name": "B",
+            "id": "B"
+        },
+        {
+            "colour": "#000",
+            "name": "C",
+            "id": "C"
+        }
+    ],
+    "links": [
+        {
+            "source": "B",
+            "target": "C",
+            "value": 2
+        },
+        {
+            "source": "A",
+            "target": "B",
+            "value": 30
+        }
+    ]
+}
